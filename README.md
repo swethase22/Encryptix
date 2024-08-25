@@ -18,9 +18,9 @@
 </p>
 
 <h3>Features:</h3>
-<p>Feature Extraction: Utilizes pre-trained image recognition models (VGG, ResNet) to extract meaningful features from images.
-Caption Generation: Employs RNNs or transformer-based models to generate captions based on the extracted features.
-End-to-End Pipeline: Supports the entire pipeline from feature extraction to caption generation and evaluation.</p>
+<p>Feature Extraction: Utilizes pre-trained image recognition models (VGG, ResNet) to extract meaningful features from images.</p>
+<p>Caption Generation: Employs RNNs or transformer-based models to generate captions based on the extracted features.</p>
+<p>End-to-End Pipeline: Supports the entire pipeline from feature extraction to caption generation and evaluation.</p>
 
 
 <h1>Task 3 - TicTacToe</h1> 
@@ -28,9 +28,9 @@ End-to-End Pipeline: Supports the entire pipeline from feature extraction to cap
 This project implements an AI agent that plays the classic game of Tic-Tac-Toe against a human player. The AI is designed to be unbeatable by using the Minimax algorithm ensuring that it always makes the optimal move. This project serves as an excellent introduction to game theory and basic search algorithms.</p>
 
 <h3>Features : </h3>
-<p>Unbeatable AI: Implements the Minimax algorithm to make the AI player unbeatable.
-Human vs. AI: Play against the AI in a standard Tic-Tac-Toe game.
-Interactive Interface: Simple console-based interface for playing the game.</p>
+<p>Unbeatable AI: Implements the Minimax algorithm to make the AI player unbeatable.</p>
+<p>Human vs. AI: Play against the AI in a standard Tic-Tac-Toe game.</p>
+<p>Interactive Interface: Simple console-based interface for playing the game.</p>
   
 </html>
 
